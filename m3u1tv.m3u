@@ -37,8 +37,36 @@ udp://@225.1.1.230:30120
 udp://@225.1.1.199:30120
 #EXTINF:0,STAR WORLD HD
 udp://@225.1.2.237:30120
-#EXTINF:0,SPORTS : BARCA TV
-udp://@225.1.2.213:30120
+#EXTINF:-1,Anis-Sat: beIN SPORTS_1_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/46.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_2_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/47.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_3_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/48.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_4_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/49.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_5_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/50.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_6_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/51.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_7_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/52.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_8_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/53.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_9_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/54.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_10_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/55.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_11_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/56.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_12_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/57.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_13_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/58.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_14_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/59.m3u8
+#EXTINF:-1,Anis-Sat: beIN SPORTS_15_SD 
+http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/60.m3u8
 #EXTINF:0,HTV9 HD
 udp://@225.1.1.190:30120
 #EXTINF:0,HTV7 HD
