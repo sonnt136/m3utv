@@ -7,17 +7,9 @@ http://192.168.1.101:4022/udp/225.1.1.249:30120
 http://192.168.1.101:4022/udp/225.1.2.247:30120
 #EXTINF:0,VTV6 HD    
 http://192.168.1.101:4022/udp/225.1.2.245:30120
-#EXTINF:0,K+1 HD
-rtmp://216.185.103.158/live2//chSport1hd
-#EXTINF:0,K+ PM
-rtmp://216.185.103.158/live2//chSport2hd
-#EXTINF:0,K+ PC
-rtmp://216.185.103.158/live2//chSport3hd
-#EXTINF:0,TRUE SPORT2 HD
-rtmp://216.185.103.158/live2//chthaipremier11
-#EXTINF:0,TRUE SPORT3 HD
-rtmp://216.185.103.158/live2//chthaipremier31
- #EXTINF:0,K+NS 
+#EXTINF:0,VTV7 HD  
+http://222.255.27.46/vtv7hd.m3u8
+#EXTINF:0,K+NS 
 http://192.168.1.101:4022/udp/225.1.1.142:30120
 #EXTINF:0,K+PC 
 http://192.168.1.101:4022/udp/225.1.1.139:30120
@@ -33,36 +25,6 @@ http://192.168.1.101:4022/udp/225.1.1.230:30120
 http://192.168.1.101:4022/udp/225.1.1.199:30120
 #EXTINF:0,STAR WORLD HD
 http://192.168.1.101:4022/udp/225.1.2.237:30120
-#EXTINF:-1,Anis-Sat: beIN SPORTS_1_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/46.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_2_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/47.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_3_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/48.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_4_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/49.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_5_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/50.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_6_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/51.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_7_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/52.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_8_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/53.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_9_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/54.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_10_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/55.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_11_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/56.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_12_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/57.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_13_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/58.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_14_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/59.m3u8
-#EXTINF:-1,Anis-Sat: beIN SPORTS_15_SD 
-http://globe.midomed.com:8883/live/marz57mka/am00l6kk9/60.m3u8
 #EXTINF:0,HTV9 HD
 http://192.168.1.101:4022/udp/225.1.1.190:30120
 #EXTINF:0,HTV7 HD
