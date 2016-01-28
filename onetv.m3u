@@ -3,12 +3,14 @@
 http://192.168.1.101:4022/udp/225.1.2.249:30120
 #EXTINF:0,VTV2     
 http://192.168.1.101:4022/udp/225.1.1.249:30120
+#EXTINF:-1,VTV2HD
+rtmp://123.30.238.125/live/_definst_/vtv2-high
 #EXTINF:0,VTV3 HD    
 http://192.168.1.101:4022/udp/225.1.2.247:30120
 #EXTINF:0,VTV6 HD    
 http://192.168.1.101:4022/udp/225.1.2.245:30120
 #EXTINF:0,VTV7 HD  
-http://222.255.27.46/vtv7hd.m3u8
+rtmp://123.30.238.125/live/_definst_/vtv7-high
 #EXTINF:0,K+NS 
 http://192.168.1.101:4022/udp/225.1.1.142:30120
 #EXTINF:0,K+PC 
