@@ -4,7 +4,7 @@ udp://@225.1.2.249:30120
 #EXTINF:0,VTV2     
 udp://@225.1.1.249:30120
 #EXTINF:-1,VTV2HD
-rtmp://123.30.238.125/live/_definst_/vtv2-high
+rtmp://123.30.238.124/live/_definst_/vtv2-high
 #EXTINF:0,VTV3 HD    
 udp://@225.1.2.247:30120
 #EXTINF:0,VTV6 HD    
@@ -213,6 +213,145 @@ udp://@225.1.2.195:30120
 udp://@225.1.1.214:30120
 #EXTINF:0,VOV
 udp://@225.1.2.171:30120
+
+#EXTINF:-1 group-title="Sports",SKY SPORT1 HD
+http://02e4.vp9.tv/chn/sks1/v.m3u8
+#EXTINF:-1 group-title="Sports",FOX SPORT HD
+http://112.197.2.135:1935/mlive/C005_HD_4/chunklist.m3u8?us=fbedf64e2bb655f9eb02c64b72381bd18d0d739a3b91c6d5c3ae63ce01a8a2c74fbae28c354dbbad83c15d92c85cfaef-1221542
+#EXTINF:-1 group-title="Sports",BongdaTV 
+http://02e4.vp9.tv/chn/bdtv/v.m3u8
+#EXTINF:-1 group-title="Sports",VTC3
+http://123.30.185.126/hls/vtc3.m3u8
+#EXTINF:-1 group-title="Sports",BTV5
+rtmp://112.197.2.135:1935/colive/C069_SD_4
+#EXTINF:-1 group-title="Sports",SPORT
+http://hlscache.fptplay.net.vn/img/img9_2000/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjdjZTYzY2QxOGE3MDM3NmEyMjQ3Nzc1NGYwNTI5MjY1IiwgInNlcnZlcl90aW1lIjogMTQ1NzQ4MTg0MywgImNoYW5uZWxfaWQiOiAibGV0cy12aWV0IiwgInZhbGlkX21pbnV0ZXMiOiAxNDQwfQ
+#EXTINF:-1 group-title="Sports",FOX SPORT
+http://123.29.68.179/v2live.m3u8?c=vstv042&q=high&deviceType=5&userId=2047114&deviceId=1720154&type=tv&p=0&zn=net&rkey=DSCvI1mPBoeY1lYF&grantor=1&pkg=pkg3&location=
+#EXTINF:-1 group-title="Sports",FOX SPORT 2 s1
+http://123.29.68.179/v2live.m3u8?c=vstv033&q=high&deviceType=5&userId=2047114&deviceId=1720154&type=tv&p=0&zn=net&rkey=V2gXa8SchMo0unxT&grantor=1&pkg=pkg3&location=
+#EXTINF:-1 group-title="Sports",FOX SPORT2 s2
+http://112.197.2.135:1935/mlive/C020_SD_4/chunklist.m3u8?us=fbedf64e2bb655f9eb02c64b72381bd18d0d739a3b91c6d5c3ae63ce01a8a2c74fbae28c354dbbad83c15d92c85cfaef-1221542
+#EXTINF:-1 group-title="Sports",BT SPORT1
+http://02e4.vp9.tv/chn/btsu1/v.m3u8
+#EXTINF:-1 group-title="Sports",BT SPORT2
+http://02e4.vp9.tv/chn/btsu2/v.m3u8
+#EXTINF:-1 group-title="Sports",SPORT
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_400.m3u8
+#EXTINF:-1 group-title="Sports",SkyNet Sports s1
+rtmp://199.189.110.20/as99/chSport1hd
+#EXTINF:-1 group-title="Sports",SkyNet Sports s2
+http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SkyNet Sports 2 s1
+rtmp://216.185.103.158/live2//chSport2hd
+#EXTINF:-1 group-title="Sports",SkyNet Sports 2 s2
+http://199.189.110.20:1935/as99/chSport2hd/playlist.m3u8
+#EXTINF:-1 group-title="Sports",SETANTA
+http://216.185.103.158:1935/live2/chthaipremier11/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TRUE SPORT2
+http://216.185.103.158:1935/live2//chthaipremier31/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 1 SD
+http://iptv.am000.tv:8000/live/tornado5/tornado5/293.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 2 HD
+http://iptv.am000.tv:8000/live/tornado5/tornado5/2.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 2 SD
+http://iptv.am000.tv:8000/live/tornado5/tornado5/294.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD
+http://iptv.am000.tv:8000/live/tornado5/tornado5/3.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 3 SD
+http://iptv.am000.tv:8000/live/tornado5/tornado5/295.m3u8
+#EXTINF:-1 group-title="Sports",Canal+ Deportes 2
+http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
+#EXTINF:-1 group-title="Sports",Canal+ Futbol
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+#EXTINF:-1 group-title="Sports",BEIN SPORT2 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/481.ts
+#EXTINF:-1 group-title="Sports",BEIN SPORT3 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/482.ts
+#EXTINF:-1 group-title="Sports",BEIN SPORT4 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/483.ts
+#EXTINF:-1 group-title="Sports",BEIN SPORT5 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/484.ts
+#EXTINF:-1 group-title="Sports",BEIN SPORT6 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/485.ts
+#EXTINF:-1 group-title="Sports",BEIN SPORT7 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/486.ts
+#EXTINF:-1 group-title="Sports",BEIN SPORT8 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/487.ts
+#EXTINF:-1 group-title="Sports",BEIN SPORT9 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/488.ts
+#EXTINF:-1 group-title="Sports",BEIN SPORT11 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/490.ts
+#EXTINF:-1 group-title="Sports",BEIN SPORT12 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/491.ts
+#EXTINF:-1 group-title="Sports",BEIN SPORT13 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/509.ts
+#EXTINF:-1 group-title="Sports",FUTBOL1 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/492.ts
+#EXTINF:-1 group-title="Sports",FUTBOL2 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/493.ts
+#EXTINF:-1 group-title="Sports",FUTBOL3 HD
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/494.ts
+#EXTINF:-1 group-title="Sports",SPORT
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/495.ts
+#EXTINF:-1 group-title="Sports",SK2
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/497.ts
+#EXTINF:-1 group-title="Sports",SK3
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/496.ts
+#EXTINF:-1 group-title="Sports",ARENA SPORT 3
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/498.ts
+#EXTINF:-1 group-title="Sports",CANAL+HD LIGA
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/499.ts
+#EXTINF:-1 group-title="Sports",CANAL+HD GOLF
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/501.ts
+#EXTINF:-1 group-title="Sports",CANAL+HD FUTBOL
+http://globeiptv.ddns.net:9999/live/Nam/TSNAM2/502.ts
+#EXTINF:-1 group-title="Sports",BEIN1
+rtmp://67.219.147.146:1935/static/Bein1
+#EXTINF:-1 group-title="Sports",BEIN2
+rtmp://67.219.147.146:1935/static/Bein2
+#EXTINF:-1 group-title="Sports",BEIN3
+rtmp://67.219.147.146:1935/static/Bein3
+#EXTINF:-1 group-title="Sports",BEIN4
+rtmp://67.219.147.146:1935/static/Bein4
+#EXTINF:-1 group-title="Sports",BEIN5
+rtmp://67.219.147.146:1935/static/Bein5
+#EXTINF:-1 group-title="Sports",BEIN6
+rtmp://67.219.147.146:1935/static/Bein6
+#EXTINF:-1 group-title="Sports",BEIN7
+rtmp://67.219.147.146:1935/static/Bein7
+#EXTINF:-1 group-title="Sports",BEIN8
+rtmp://67.219.147.146:1935/static/Bein8
+#EXTINF:-1 group-title="Sports",BEIN9
+rtmp://67.219.147.146:1935/static/Bein9
+#EXTINF:-1 group-title="Sports",BEIN10
+rtmp://67.219.147.146:1935/static/Bein10
+#EXTINF:-1 group-title="Sports",BEIN 11
+rtmp://67.219.147.146:1935/static/Bein11
+#EXTINF:-1 group-title="Sports",BEIN12
+rtmp://67.219.147.146:1935/static/Bein12
+#EXTINF:-1 group-title="Sports",BT1
+rtmp://67.219.147.146:1935/static/BT1
+#EXTINF:-1 group-title="Sports",BT2
+rtmp://67.219.147.146:1935/static/BT2
+#EXTINF:-1 group-title="Sports",Canal Futbol 
+http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
+#EXTINF:-1 group-title="Sports",Canal Futbol 2
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+#EXTINF:-1 group-title="Sports",Canal  Deportes
+http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
+#EXTINF:-1 group-title="Sports",Canal  Liga
+http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT5      
+http://144.76.3.83/sky_sports5gb.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 2
+http://80.243.189.26:8889/sprtXStpp/starsport2/index.m3u8
+#EXTINF:-1 group-title="Sports",British Eurosport 1
+http://80.243.189.26:8889/sprtXStpp/euro1/index.m3u8
+#EXTINF:-1 group-title="Sports",British Eurosport 2
+http://80.243.189.26:8889/sprtXStpp/euro2/index.m3u8
+
+
 #EXTINF:0,FOX SPORTS
 udp://@225.1.2.228:30120
 #EXTINF:0,CNN
