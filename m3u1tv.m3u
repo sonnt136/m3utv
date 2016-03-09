@@ -11,22 +11,6 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.245:30120
 #EXTINF:-1,VTV7HD
 rtmp://123.30.238.125/live/_definst_/vtv7-high
-#EXTINF:0,K+NS 
-udp://@225.1.1.142:30120
-#EXTINF:0,K+PC 
-udp://@225.1.1.139:30120
-#EXTINF:0,K+1 s1
-rtmp://216.185.103.158/live2/chSport1hd
-#EXTINF:0,K+1 s2
-rtmp://199.189.110.20/as99/chSport1hd
-#EXTINF:0,K+PM s1
-rtmp://216.185.103.158/live2/chSport2hd
-#EXTINF:0,K+PM s2
-rtmp://199.189.110.20/as99/chSport2hd
-#EXTINF:0,TRUE SPORT2 HD
-rtmp://216.185.103.158/live2/chthaipremier11
-#EXTINF:0,TRUE SPORT3 HD
-rtmp://216.185.103.158/live2/chthaipremier31
 #EXTINF:0,HBO HD
 udp://@225.1.2.233:30120
 #EXTINF:0,STAR MOVIES HD
