@@ -9,8 +9,6 @@ rtmp://123.30.238.124/live/_definst_/vtv2-high
 udp://@225.1.2.247:30120
 #EXTINF:0,VTV6 HD    
 udp://@225.1.2.245:30120
-#EXTINF:-1,VTV7HD
-rtmp://123.30.238.125/live/_definst_/vtv7-high
 #EXTINF:0,HBO HD
 udp://@225.1.2.233:30120
 #EXTINF:0,STAR MOVIES HD
