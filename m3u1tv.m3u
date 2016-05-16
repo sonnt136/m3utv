@@ -3,8 +3,6 @@
 udp://@225.1.2.249:30120
 #EXTINF:0,VTV2     
 udp://@225.1.1.249:30120
-#EXTINF:-1,VTV2HD
-rtmp://123.30.238.124/live/_definst_/vtv2-high
 #EXTINF:0,VTV3 HD    
 udp://@225.1.2.247:30120
 #EXTINF:0,VTV6 HD    
