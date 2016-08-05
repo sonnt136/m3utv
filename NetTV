@@ -1,3 +1,4 @@
+#EXTM3U 
 #EXTINF:-1 , group-title="K+",K+1  
 http://27.67.50.6:18080/148_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 ,  group-title="K+",K+PC
