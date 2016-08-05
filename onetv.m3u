@@ -15,6 +15,8 @@ http://27.67.50.6:18080/148_3.m3u8?AdaptiveType=HLS
 http://27.67.50.6:18080/149_3.m3u8?AdaptiveType=HLS
 #EXTINF:0, K+PC
 http://27.67.50.6:18080/161_3.m3u8?AdaptiveType=HLS
+#EXTINF:-1 , group-title="K+",K+NS
+http://27.67.50.73:18080/147_3.m3u8?AdaptiveType=HLS
 #EXTINF:0,HBO HD
 http://192.168.1.101:4022/udp/225.1.2.233:30120
 #EXTINF:-1,R&D-HBO HD
