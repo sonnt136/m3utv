@@ -23,10 +23,12 @@ http://xemiptv.ddns.net:5000/udp/225.1.2.166:30120
 
 #EXTINF:0 tvg-logo="https://s20.postimg.org/z2ajc8w6l/VTV9_HD.png",VTV9 
 http://xemiptv.ddns.net:5000/udp/225.1.1.128:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/3p04ltjvx/VTVCAB1_GIAITRITV.png",VTVcab 1 - Gi?i Trí TV
-#http://xemiptv.ddns.net:5000/udp/225.1.2.150:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/j5ia9udwt/VTVCAB2_PHIMVIET.png",VTVcab 2 - Phim Vi?t
-#http://xemiptv.ddns.net:5000/udp/225.1.2.159:30120
+
+
+#EXTINF:0 tvg-logo="https://s20.postimg.org/pvkze1wx9/HANOI1.png",HanoiTV1
+http://xemiptv.ddns.net:5000/udp/225.1.2.186:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/hv6opkfzh/HANOI2.png",HanoiTV2
+http://xemiptv.ddns.net:5000/udp/225.1.1.125:30120
 
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN1Thai.png ",ThaiLand:beIN Sports 1 s1
 http://111.223.50.12:8081/liveNimble/ch04h/playlist.m3u8
@@ -46,143 +48,6 @@ http://103.253.73.251/liveNimble/ch06s/playlist.m3u8
 http://111.223.50.12:8081/liveNimble/ch07h/playlist.m3u8
 #EXTINF:-1 group-title="BEin Sports" tvg-logo="http://www.sboeasy.com/assets/images/channel_mini_logo/beIN4Thai.png ",ThaiLand:beIN Sports 4 s2
 http://103.253.73.251/liveNimble/ch07s/playlist.m3u8
-
-#EXTINF:-1,Th? Thao TV HD
-#http://203.162.123.178:4022/udp/224.2.2.2:3000
-#EXTINF:0 tvg-logo="",VTVcab 3 - Th? Thao TV
-#http://xemiptv.ddns.net:5000/udp/225.1.2.240:30120
-#EXTINF:0 tvg-logo="",VTVcab 3 - Th? Thao TV
-#http://xemiptv.ddns.net:5000/udp/225.1.2.241:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/hz9oxb08d/VTVCAB4_VANHOA.png",VTVcab 4 - Van hóa
-#http://xemiptv.ddns.net:5000/udp/225.1.2.153:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/9v1kskdt9/VTVCAB5_ECHANNEL.png",VTVcab 5 - E Channel
-#http://xemiptv.ddns.net:5000/udp/225.1.2.156:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/40m6cbppp/VTVCAB6_HAYTV.png",VTVcab 6 - Hay TV
-#http://xemiptv.ddns.net:5000/udp/225.1.1.254:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/5tp30nawd/VTVCAB7_DRAMAS.png",VTVcab 7 - D Dramas
-#http://xemiptv.ddns.net:5000/udp/225.1.2.157:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/irccwi4fh/VTVCab8_BiBi.png",VTVcab 8 - BiBi
-#http://xemiptv.ddns.net:5000/udp/225.1.2.161:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/fbou0owkt/VTVCAB9_INFOTV.gif",VTVcab 9 - InfoTV
-#http://xemiptv.ddns.net:5000/udp/225.1.2.154:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/bqsyhgs19/VTVCab10_O2TV.png",VTVcab 10
-#http://xemiptv.ddns.net:5000/udp/225.1.2.152:30120
-#EXTINF:0 tvg-logo="",VTVCAB11
-#http://xemiptv.ddns.net:5000/udp/225.1.1.252:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/o6q4ul2b1/VTVCAB12_STYLETV.png",VTVcab 12 - Style TV HD
-#http://xemiptv.ddns.net:5000/udp/225.1.2.155:30120
-#EXTINF:0 tvg-logo="",VTVCAB13
-#http://xemiptv.ddns.net:5000/udp/225.1.1.122:30120
-#EXTINF:0 tvg-logo="",VTVCAB14
-#http://xemiptv.ddns.net:5000/udp/225.1.1.253:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/w0qqfza3x/VTVCAB15_MCHANNEL.png",VTVcab 15 - M Channel
-#http://xemiptv.ddns.net:5000/udp/225.1.1.251:30120
-#EXTINF:-1,Bóng Ðá TV HD
-#http://203.162.123.178:4022/udp/224.2.2.2:3001
-#EXTINF:0 tvg-logo="",VTVcab 16 - Bóng dá TV
-#http://xemiptv.ddns.net:5000/udp/225.1.2.242:30120
-#EXTINF:0 tvg-logo="",VTVcab 16 - Bóng dá TV
-#http://xemiptv.ddns.net:5000/udp/225.1.2.243:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/ott6eh7n1/VTVCAB17_YEAH1TV.png",VTVcab 17 - Yeah1 TV
-#http://xemiptv.ddns.net:5000/udp/225.1.2.151:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/gkcpmboj1/VTVCAB19_FILMTV.gif",VTVcab 19 - Kênh Phim
-#http://xemiptv.ddns.net:5000/udp/225.1.2.207:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/ucrl1bw8d/VTVCAB20_VFAMILY.png",VTVcab 20 - V Family
-#http://xemiptv.ddns.net:5000/udp/225.1.1.15:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/rl7urcgrx/VTVCAB21_SAOTV.png",VTVcab 21 - Sao TV - Kênh Bibi+
-#http://xemiptv.ddns.net:5000/udp/225.1.2.82:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/rl7urcgrx/VTVCAB21_SAOTV.png",VTVcab 21 - Sao TV - Kênh Bibi+
-#http://xemiptv.ddns.net:5000/udp/225.1.2.103:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/h5qkadk31/HTV1.png",HTV1
-http://xemiptv.ddns.net:5000/udp/225.1.1.180:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/rd93ms6b1/HTV2_HD.png",HTV2
-#http://xemiptv.ddns.net:5000/udp/225.1.1.179:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/rd93ms6b1/HTV2_HD.png",HTV2 
-http://xemiptv.ddns.net:5000/udp/225.1.1.193:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/unxgmnw8d/HTV3.png",HTV3
-http://xemiptv.ddns.net:5000/udp/225.1.1.178:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/q3ba7qcj1/HTV4.png",HTV4
-http://xemiptv.ddns.net:5000/udp/225.1.1.177:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/fmzrj52wd/HTV7_HD.png",HTV7 
-#http://xemiptv.ddns.net:5000/udp/225.1.1.191:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/fmzrj52wd/HTV7_HD.png",HTV7 
-http://xemiptv.ddns.net:5000/udp/225.1.1.192:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/kgexa9a0d/HTV9_HD.png",HTV9 
-#http://xemiptv.ddns.net:5000/udp/225.1.1.189:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/kgexa9a0d/HTV9_HD.png",HTV9 
-http://xemiptv.ddns.net:5000/udp/225.1.1.190:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/wvaw22ga5/HTVC_THETHAO.png",HTV Th? thao
-http://xemiptv.ddns.net:5000/udp/225.1.1.165:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/5r39x8mi5/HTVC_DL_CS.png",HTVC - Du l?ch & Cu?c s?ng
-http://xemiptv.ddns.net:5000/udp/225.1.1.166:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/jolg2jkkt/HTVC_GIADINH1.png",HTVC - Gia Ðình
-http://xemiptv.ddns.net:5000/udp/225.1.1.170:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/lk88dp9f1/HTVC_PHUNU_HD.png",HTVC - Ph? N?
-http://xemiptv.ddns.net:5000/udp/225.1.1.171:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/66ejq98fh/HTVC_SHOPING.png",HTVC - SHOPPING
-#http://xemiptv.ddns.net:5000/udp/225.1.1.172:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/6gqnnccfh/HTVC_PHIM_HD.png",HTVC - Phim
-#http://xemiptv.ddns.net:5000/udp/225.1.1.173:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/6gqnnccfh/HTVC_PHIM_HD.png",HTVC - Phim
-#http://xemiptv.ddns.net:5000/udp/225.1.1.183:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/6gqnnccfh/HTVC_PHIM_HD.png",HTVC - Phim
-http://xemiptv.ddns.net:5000/udp/225.1.1.184:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/c0yjk8lwt/HTVC_THUANVIET.png",HTVC - Thu?n Vi?t
-http://xemiptv.ddns.net:5000/udp/225.1.1.174:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/jjma6m2nh/HTVC_THUANVIET_HD.png",HTVC Thu?n Vi?t HD (Phim Vi?t)
-#http://xemiptv.ddns.net:5000/udp/225.1.1.185:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/jjma6m2nh/HTVC_THUANVIET_HD.png",HTVC Thu?n Vi?t HD (Phim Vi?t)
-http://xemiptv.ddns.net:5000/udp/225.1.1.186:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/k2ms254od/HTVC_FBNC.png",FBNC HD
-#http://xemiptv.ddns.net:5000/udp/225.1.1.181:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/k2ms254od/HTVC_FBNC.png",FBNC HD
-http://xemiptv.ddns.net:5000/udp/225.1.1.182:30120
-#EXTINF:0,SCTV4
-http://xemiptv.ddns.net:5000/udp/225.1.2.187:30120
-#EXTINF:-1,SCTV 1 HD
-#http://203.162.123.178:4022/udp/224.2.2.8:3001
-#EXTINF:-1,SCTV Phim T?ng H?p HD
-#http://203.162.123.178:4022/udp/224.2.2.4:3001
-#EXTINF:-1,SCTV 17
-#http://203.162.123.178:4022/udp/224.2.2.8:3000
-#EXTINF:0 tvg-logo="https://s20.postimg.org/ogecs7pil/ANTV_HD.png",ANTV
-http://xemiptv.ddns.net:5000/udp/225.1.2.169:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/t6ij5f1m5/QPVN.png",Qu?c Phòng VN
-#http://xemiptv.ddns.net:5000/udp/225.1.2.216:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/t6ij5f1m5/QPVN.png",Qu?c Phòng VN 
-http://xemiptv.ddns.net:5000/udp/225.1.2.217:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/4ihsbjw8d/TTXVN.png",VNEWS TTXVN
-http://xemiptv.ddns.net:5000/udp/225.1.1.43:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/cl1py9vql/QUOCHOI.png",Qu?c H?i HD 
-#http://xemiptv.ddns.net:5000/udp/225.1.2.148:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/cl1py9vql/QUOCHOI.png",Qu?c H?i HD
-http://xemiptv.ddns.net:5000/udp/225.1.2.149:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/5nfzbar59/NHANDAN.png",Truy?n Hình Nhân Dân
-http://xemiptv.ddns.net:5000/udp/225.1.1.91:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/70p8nmwvh/THVL1.png",VinhLongTV1
-http://xemiptv.ddns.net:5000/udp/225.1.1.155:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/prr5xsrfx/THVL2.png",VinhLongTV2 (THVL2)
-http://xemiptv.ddns.net:5000/udp/225.1.1.154:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/ngt3tmgod/BTV1.png",Bình Duong 1
-http://xemiptv.ddns.net:5000/udp/225.1.1.150:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/6cbc7kru5/BTV2.png",Bình Duong 2
-http://xemiptv.ddns.net:5000/udp/225.1.1.149:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/pwux7gyr1/BTV4-IMOVIEHD.png",iMovie HD
-http://xemiptv.ddns.net:5000/udp/225.1.1.30:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/4gojwf2zx/DN1.png",DongNaiTV1
-http://xemiptv.ddns.net:5000/udp/225.1.1.152:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/fvl111fcd/DN2.png",DongNaiTV2
-http://xemiptv.ddns.net:5000/udp/225.1.1.151:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/pvkze1wx9/HANOI1.png",HanoiTV1
-http://xemiptv.ddns.net:5000/udp/225.1.2.186:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/hv6opkfzh/HANOI2.png",HanoiTV2
-http://xemiptv.ddns.net:5000/udp/225.1.1.125:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/l5pzsbzl9/DRT1.png",DanangTV1
-http://xemiptv.ddns.net:5000/udp/225.1.1.147:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/s3z5ve419/DRT2.png",DanangTV2
-http://xemiptv.ddns.net:5000/udp/225.1.1.146:30120
-#EXTINF:0 tvg-logo="https://s20.postimg.org/sieqjl97x/THP.png",H?i Phòng
-http://xemiptv.ddns.net:5000/udp/225.1.1.44:30120
 #EXTINF:0 tvg-logo="https://s20.postimg.org/qz9p3r6y5/VTC1.png",VTC1 
 http://xemiptv.ddns.net:5000/udp/225.1.2.254:30120
 #EXTINF:0 tvg-logo="https://s20.postimg.org/5zozyifvx/VTC2.png",VTC2
@@ -341,6 +206,144 @@ http://xemiptv.ddns.net:5000/udp/225.1.1.202:30120
 http://xemiptv.ddns.net:5000/udp/225.1.2.211:30120
 #EXTINF:0 tvg-logo="https://s20.postimg.org/57d57twx9/NHK_WORLD_JAPAN.png",NHK WORLD TV
 http://xemiptv.ddns.net:5000/udp/225.1.1.47:30120
+
+#EXTINF:0 tvg-logo="https://s20.postimg.org/h5qkadk31/HTV1.png",HTV1
+http://xemiptv.ddns.net:5000/udp/225.1.1.180:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/rd93ms6b1/HTV2_HD.png",HTV2
+#http://xemiptv.ddns.net:5000/udp/225.1.1.179:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/rd93ms6b1/HTV2_HD.png",HTV2 
+http://xemiptv.ddns.net:5000/udp/225.1.1.193:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/unxgmnw8d/HTV3.png",HTV3
+http://xemiptv.ddns.net:5000/udp/225.1.1.178:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/q3ba7qcj1/HTV4.png",HTV4
+http://xemiptv.ddns.net:5000/udp/225.1.1.177:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/fmzrj52wd/HTV7_HD.png",HTV7 
+#http://xemiptv.ddns.net:5000/udp/225.1.1.191:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/fmzrj52wd/HTV7_HD.png",HTV7 
+http://xemiptv.ddns.net:5000/udp/225.1.1.192:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/kgexa9a0d/HTV9_HD.png",HTV9 
+#http://xemiptv.ddns.net:5000/udp/225.1.1.189:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/kgexa9a0d/HTV9_HD.png",HTV9 
+http://xemiptv.ddns.net:5000/udp/225.1.1.190:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/wvaw22ga5/HTVC_THETHAO.png",HTV Th? thao
+http://xemiptv.ddns.net:5000/udp/225.1.1.165:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/5r39x8mi5/HTVC_DL_CS.png",HTVC - Du l?ch & Cu?c s?ng
+http://xemiptv.ddns.net:5000/udp/225.1.1.166:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/jolg2jkkt/HTVC_GIADINH1.png",HTVC - Gia Ðình
+http://xemiptv.ddns.net:5000/udp/225.1.1.170:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/lk88dp9f1/HTVC_PHUNU_HD.png",HTVC - Ph? N?
+http://xemiptv.ddns.net:5000/udp/225.1.1.171:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/66ejq98fh/HTVC_SHOPING.png",HTVC - SHOPPING
+#http://xemiptv.ddns.net:5000/udp/225.1.1.172:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/6gqnnccfh/HTVC_PHIM_HD.png",HTVC - Phim
+#http://xemiptv.ddns.net:5000/udp/225.1.1.173:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/6gqnnccfh/HTVC_PHIM_HD.png",HTVC - Phim
+#http://xemiptv.ddns.net:5000/udp/225.1.1.183:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/6gqnnccfh/HTVC_PHIM_HD.png",HTVC - Phim
+http://xemiptv.ddns.net:5000/udp/225.1.1.184:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/c0yjk8lwt/HTVC_THUANVIET.png",HTVC - Thu?n Vi?t
+http://xemiptv.ddns.net:5000/udp/225.1.1.174:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/jjma6m2nh/HTVC_THUANVIET_HD.png",HTVC Thu?n Vi?t HD (Phim Vi?t)
+#http://xemiptv.ddns.net:5000/udp/225.1.1.185:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/jjma6m2nh/HTVC_THUANVIET_HD.png",HTVC Thu?n Vi?t HD (Phim Vi?t)
+http://xemiptv.ddns.net:5000/udp/225.1.1.186:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/k2ms254od/HTVC_FBNC.png",FBNC HD
+#http://xemiptv.ddns.net:5000/udp/225.1.1.181:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/k2ms254od/HTVC_FBNC.png",FBNC HD
+http://xemiptv.ddns.net:5000/udp/225.1.1.182:30120
+#EXTINF:0,SCTV4
+http://xemiptv.ddns.net:5000/udp/225.1.2.187:30120
+#EXTINF:-1,SCTV 1 HD
+#http://203.162.123.178:4022/udp/224.2.2.8:3001
+#EXTINF:-1,SCTV Phim T?ng H?p HD
+#http://203.162.123.178:4022/udp/224.2.2.4:3001
+#EXTINF:-1,SCTV 17
+#http://203.162.123.178:4022/udp/224.2.2.8:3000
+#EXTINF:0 tvg-logo="https://s20.postimg.org/ogecs7pil/ANTV_HD.png",ANTV
+http://xemiptv.ddns.net:5000/udp/225.1.2.169:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/t6ij5f1m5/QPVN.png",Qu?c Phòng VN
+#http://xemiptv.ddns.net:5000/udp/225.1.2.216:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/t6ij5f1m5/QPVN.png",Qu?c Phòng VN 
+http://xemiptv.ddns.net:5000/udp/225.1.2.217:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/4ihsbjw8d/TTXVN.png",VNEWS TTXVN
+http://xemiptv.ddns.net:5000/udp/225.1.1.43:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/cl1py9vql/QUOCHOI.png",Qu?c H?i HD 
+#http://xemiptv.ddns.net:5000/udp/225.1.2.148:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/cl1py9vql/QUOCHOI.png",Qu?c H?i HD
+http://xemiptv.ddns.net:5000/udp/225.1.2.149:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/5nfzbar59/NHANDAN.png",Truy?n Hình Nhân Dân
+http://xemiptv.ddns.net:5000/udp/225.1.1.91:30120
+
+
+#EXTINF:-1,Th? Thao TV HD
+#http://203.162.123.178:4022/udp/224.2.2.2:3000
+#EXTINF:0 tvg-logo="",VTVcab 3 - Th? Thao TV
+#http://xemiptv.ddns.net:5000/udp/225.1.2.240:30120
+#EXTINF:0 tvg-logo="",VTVcab 3 - Th? Thao TV
+#http://xemiptv.ddns.net:5000/udp/225.1.2.241:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/hz9oxb08d/VTVCAB4_VANHOA.png",VTVcab 4 - Van hóa
+#http://xemiptv.ddns.net:5000/udp/225.1.2.153:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/9v1kskdt9/VTVCAB5_ECHANNEL.png",VTVcab 5 - E Channel
+#http://xemiptv.ddns.net:5000/udp/225.1.2.156:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/40m6cbppp/VTVCAB6_HAYTV.png",VTVcab 6 - Hay TV
+#http://xemiptv.ddns.net:5000/udp/225.1.1.254:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/5tp30nawd/VTVCAB7_DRAMAS.png",VTVcab 7 - D Dramas
+#http://xemiptv.ddns.net:5000/udp/225.1.2.157:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/irccwi4fh/VTVCab8_BiBi.png",VTVcab 8 - BiBi
+#http://xemiptv.ddns.net:5000/udp/225.1.2.161:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/fbou0owkt/VTVCAB9_INFOTV.gif",VTVcab 9 - InfoTV
+#http://xemiptv.ddns.net:5000/udp/225.1.2.154:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/bqsyhgs19/VTVCab10_O2TV.png",VTVcab 10
+#http://xemiptv.ddns.net:5000/udp/225.1.2.152:30120
+#EXTINF:0 tvg-logo="",VTVCAB11
+#http://xemiptv.ddns.net:5000/udp/225.1.1.252:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/o6q4ul2b1/VTVCAB12_STYLETV.png",VTVcab 12 - Style TV HD
+#http://xemiptv.ddns.net:5000/udp/225.1.2.155:30120
+#EXTINF:0 tvg-logo="",VTVCAB13
+#http://xemiptv.ddns.net:5000/udp/225.1.1.122:30120
+#EXTINF:0 tvg-logo="",VTVCAB14
+#http://xemiptv.ddns.net:5000/udp/225.1.1.253:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/w0qqfza3x/VTVCAB15_MCHANNEL.png",VTVcab 15 - M Channel
+#http://xemiptv.ddns.net:5000/udp/225.1.1.251:30120
+#EXTINF:-1,Bóng Ðá TV HD
+#http://203.162.123.178:4022/udp/224.2.2.2:3001
+#EXTINF:0 tvg-logo="",VTVcab 16 - Bóng dá TV
+#http://xemiptv.ddns.net:5000/udp/225.1.2.242:30120
+#EXTINF:0 tvg-logo="",VTVcab 16 - Bóng dá TV
+#http://xemiptv.ddns.net:5000/udp/225.1.2.243:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/ott6eh7n1/VTVCAB17_YEAH1TV.png",VTVcab 17 - Yeah1 TV
+#http://xemiptv.ddns.net:5000/udp/225.1.2.151:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/gkcpmboj1/VTVCAB19_FILMTV.gif",VTVcab 19 - Kênh Phim
+#http://xemiptv.ddns.net:5000/udp/225.1.2.207:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/ucrl1bw8d/VTVCAB20_VFAMILY.png",VTVcab 20 - V Family
+#http://xemiptv.ddns.net:5000/udp/225.1.1.15:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/rl7urcgrx/VTVCAB21_SAOTV.png",VTVcab 21 - Sao TV - Kênh Bibi+
+#http://xemiptv.ddns.net:5000/udp/225.1.2.82:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/rl7urcgrx/VTVCAB21_SAOTV.png",VTVcab 21 - Sao TV - Kênh Bibi+
+#http://xemiptv.ddns.net:5000/udp/225.1.2.103:30120
+
+#EXTINF:0 tvg-logo="https://s20.postimg.org/70p8nmwvh/THVL1.png",VinhLongTV1
+http://xemiptv.ddns.net:5000/udp/225.1.1.155:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/prr5xsrfx/THVL2.png",VinhLongTV2 (THVL2)
+http://xemiptv.ddns.net:5000/udp/225.1.1.154:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/ngt3tmgod/BTV1.png",Bình Duong 1
+http://xemiptv.ddns.net:5000/udp/225.1.1.150:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/6cbc7kru5/BTV2.png",Bình Duong 2
+http://xemiptv.ddns.net:5000/udp/225.1.1.149:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/pwux7gyr1/BTV4-IMOVIEHD.png",iMovie HD
+http://xemiptv.ddns.net:5000/udp/225.1.1.30:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/4gojwf2zx/DN1.png",DongNaiTV1
+http://xemiptv.ddns.net:5000/udp/225.1.1.152:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/fvl111fcd/DN2.png",DongNaiTV2
+http://xemiptv.ddns.net:5000/udp/225.1.1.151:30120
+
+#EXTINF:0 tvg-logo="https://s20.postimg.org/l5pzsbzl9/DRT1.png",DanangTV1
+http://xemiptv.ddns.net:5000/udp/225.1.1.147:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/s3z5ve419/DRT2.png",DanangTV2
+http://xemiptv.ddns.net:5000/udp/225.1.1.146:30120
+#EXTINF:0 tvg-logo="https://s20.postimg.org/sieqjl97x/THP.png",H?i Phòng
+http://xemiptv.ddns.net:5000/udp/225.1.1.44:30120
+
 
 
 
