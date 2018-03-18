@@ -1,28 +1,48 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s20.postimg.org/6w63y9jal/VTV1_HD.png",VTV1 
 http://xemiptv.ddns.net:5000/udp/225.1.2.249:30120
+#EXTINF:-1 group-title="" tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V1_Eb8vhXa.png",VTV1 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s20.postimg.org/zabji56ul/VTV2.png",VTV2 
 http://xemiptv.ddns.net:5000/udp/225.1.2.14:30120
+#EXTINF:-1 group-title="" tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s20.postimg.org/enmtwtnfx/VTV3_HD.png",VTV3 
 http://xemiptv.ddns.net:5000/udp/225.1.2.247:30120
+#EXTINF:-1 group-title="" tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://s20.postimg.org/psbsi3l65/VTV4.png",VTV4 
 http://xemiptv.ddns.net:5000/udp/225.1.2.20:30120
+#EXTINF:-1 group-title="" tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V4.png",VTV4 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://s20.postimg.org/6lylex4od/VTV5.png",VTV5 
 http://xemiptv.ddns.net:5000/udp/225.1.1.131:30120
+#EXTINF:-1 group-title="" tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://s20.postimg.org/m2c5p79bh/VTV6.png",VTV6 
 http://xemiptv.ddns.net:5000/udp/225.1.2.245:30120
+#EXTINF:-1 group-title="" tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://s20.postimg.org/sw935i299/VTV7_HD.png",VTV7 
 http://xemiptv.ddns.net:5000/udp/225.1.2.97:30120
+#EXTINF:-1 group-title="" tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V7.png",VTV7 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://s20.postimg.org/q4ptew3ql/VTV8_HD.png",VTV8 
 http://xemiptv.ddns.net:5000/udp/225.1.2.166:30120
+#EXTINF:-1 group-title="" tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V8.png",VTV8 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://s20.postimg.org/z2ajc8w6l/VTV9_HD.png",VTV9 
 http://xemiptv.ddns.net:5000/udp/225.1.1.128:30120
+#EXTINF:-1 group-title="" tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V9.png",VTV9 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://s20.postimg.org/pvkze1wx9/HANOI1.png",HanoiTV1
@@ -50,12 +70,64 @@ http://111.223.50.12:8081/liveNimble/ch07h/playlist.m3u8
 http://103.253.73.251/liveNimble/ch07s/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s20.postimg.org/qz9p3r6y5/VTC1.png",VTC1 
 http://xemiptv.ddns.net:5000/udp/225.1.2.254:30120
+#EXTINF:1,VTC1
+http://live.cdn.mobifonetv.vn/motv2/myvtc1_hls.smil/chunklist_b1200000.m3u8
+
 #EXTINF:0 tvg-logo="https://s20.postimg.org/5zozyifvx/VTC2.png",VTC2
 http://xemiptv.ddns.net:5000/udp/225.1.2.202:30120
 #EXTINF:0 tvg-logo="",VTC3
 #http://xemiptv.ddns.net:5000/udp/225.1.2.201:30120
 #EXTINF:0 tvg-logo="https://s20.postimg.org/mrewv05il/VTC3_HD.png",VTC3 HD
 http://xemiptv.ddns.net:5000/udp/225.1.2.251:30120
+#EXTINF:1,VTC3
+http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:1,VTC7
+http://live.cdn.mobifonetv.vn/motv2/mytodaytv_hls.smil/chunklist_b1200000.m3u8 
+#EXTINF:1,VTC9
+http://live.cdn.mobifonetv.vn/motv2/myletsviet_hls.smil/chunklist_b1200000.m3u8  
+#EXTINF:1,VTC10
+http://live.cdn.mobifonetv.vn/motv2/myvtc10_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:1,VTC11
+http://live.cdn.mobifonetv.vn/motv2/myvtc11_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:1,HTV1
+http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,HTV2
+http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,HTV3
+http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,HTV4
+http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:1,HTV7
+http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:1,HTV9
+http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,THUAN VIET
+http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,GIA DINH
+http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,Du Lich Cuoc Song
+http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,Phụ nữ
+http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,PARAMOUNT CHANNEL
+http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,Thể Thao
+http://live.cdn.mobifonetv.vn/motv/myhtvcThethao_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,Quốc Phòng
+rtmp://125.212.132.219/standard/mp4:standard
+#EXTINF:-1,sctv10
+rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
+#EXTINF:-1,vtc5
+rtmp://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD_3
+#EXTINF:-1,TTXVN
+http://live.vnanet.vn/VnewsLive_Layer1.m3u8
+#EXTINF:-1,ANTV
+http://123.30.191.202/hls/antv.m3u8
+#EXTINF:-1,NHAN DAN HD
+rtmpt://27.118.16.98:1935/live//truyenhinhnhandan720
+#EXTINF:-1,VOV TV
+http://210.245.60.242:1935/vovtv/vovtv/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://s20.postimg.org/z5a4kvoq5/VTC4_YEAH1FAMILY.png",Yeah1 Family - VTC4
 http://xemiptv.ddns.net:5000/udp/225.1.2.200:30120
 #EXTINF:0 tvg-logo="https://s20.postimg.org/pms01v9il/VTC5.png",VTC5
