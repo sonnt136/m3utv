@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1,Thai Lan vs Uzberkistan
 http://cdn2.xoilac.tv/718222ab9e036af724f0e3def939078914a06a70/1534720895/template_mitomtv/live2/chunklist.m3u8
+#EXTINF:-1,Tboi 
+http://cdn2.xoilac.tv/b72569000070715915446e78a34c63e701ed12e8/1534721521/template_mitomtv/amlst:live1/chunklist_b1120000.m3u8
+
 #EXTINF:-1,XoilacTV4
 http://cdn5.xoilac.tv/4dacf6578006780f062ef000feaf3b4e402f18d1/1534458706/play-video/live4/index.m3u8
 #EXTINF:-1,XoilacTV5
 http://cdn2.xoilac.tv/f5d2cc9c7ccabd90f88bc6802e88c5071d104ca4/1534458841/template_mitomtv/live5/chunklist.m3u8
+
 #EXTINF:-1,ARENA 802
 https://stream.astro.com.my/arena/ngrp:live_arena_all/chunklist_b1431072.m3u8
 #EXTINF:-1,ARENA 803
