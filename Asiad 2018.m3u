@@ -1,18 +1,38 @@
 #EXTM3U
-#EXTINF:-1,Han Quoc vs kyrgyzstan
-http://cdn2.xoilac.tv/b4974a56f0eb44f05a74052cd42f997839c4c57b/1534811415/template_mitomtv/live3/chunklist.m3u8
-#EXTINF:-1,Indonesia vs Hongkong 
-hhttp://cdn2.xoilac.tv/8c9953fdfd98f0cc9367595bfc93fb1f0db684c7/1534811549/template_mitomtv/live2/chunklist.m3u8
-
-#EXTINF:-1,XoilacTV4
-http://cdn5.xoilac.tv/4dacf6578006780f062ef000feaf3b4e402f18d1/1534458706/play-video/live4/index.m3u8
-#EXTINF:-1,XoilacTV5
-http://cdn2.xoilac.tv/f5d2cc9c7ccabd90f88bc6802e88c5071d104ca4/1534458841/template_mitomtv/live5/chunklist.m3u8
-
-#EXTINF:-1,ARENA 802
-https://stream.astro.com.my/arena/ngrp:live_arena_all/chunklist_b1431072.m3u8
-#EXTINF:-1,ARENA 803
-https://stream.astro.com.my/arena/ngrp:live_nadiarena_all/chunklist_b1431072.m3u
+#EXTINF:-1,Trực Tiếp Asiad 2018
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1,SONY ESPN HD Link Việt Nam
+https://bit.ly/2uz0Ysn
+#EXTINF:-1,SONY TEN 2 HD Link VIệt Nam
+https://bit.ly/2MbTeUy
+#EXTINF:-1,SONY TEN 3 HD Link Việt Nam
+https://bit.ly/2lsR3R7
+#EXTINF:-1,SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:-1,SONY ESPN SD
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:-1,SONY TEN1 HD
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:-1,SONY TEN1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:-1,SONY TEN2 HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1,SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1,SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1,SONY TEN3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:-1,NeoSports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:-1,DSports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:-1,DD Sports SD
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+#EXTINF:-1,DSports L1
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+#EXTINF:-1,DSports L2
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
 
 #EXTINF:-1,AR: Bein Sports 6 HD
 http://5.189.187.55:8000/live/Fadil/skype/771.ts
